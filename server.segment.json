@@ -1,0 +1,3 @@
+{
+    "./shared/sayHello.js": { "default": { "access": "public" } }
+}
